@@ -1,0 +1,30 @@
+{
+  "name": "checkout-system",
+  "version": "1.0.0",
+  "description": "A checkout system for a POS where we can apply certain pricing principles for each product as and when necessary.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TanmayBanerjee-23rd/checkout-system.git"
+  },
+  "keywords": [
+    "POS",
+    "checkout",
+    "system"
+  ],
+  "author": "Tanmay Banerjee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TanmayBanerjee-23rd/checkout-system/issues"
+  },
+  "homepage": "https://github.com/TanmayBanerjee-23rd/checkout-system#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.11",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.2",
+    "typescript": "^5.3.3"
+  }
+}
