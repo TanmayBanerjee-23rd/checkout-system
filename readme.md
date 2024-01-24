@@ -4,7 +4,7 @@ Steps to execute the Checkout System:
 
 2. Open a terminal and change your directory to somewhere you would like to clone the repository,
 
-3. Run "git clone https://github.com/TanmayBanerjee-23rd/checkout-system#readme"
+3. Run "git clone https://github.com/TanmayBanerjee-23rd/checkout-system.git"
 
 4. Run "cd checkout-system"
 
